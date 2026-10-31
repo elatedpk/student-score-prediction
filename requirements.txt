@@ -1,2 +1,0 @@
- * pandas → DataFrame 
- * scikit-learn → train_test_split, LinearRegression, mean_squared_error 
